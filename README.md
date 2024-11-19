@@ -52,7 +52,7 @@ The `SSL_Env` (Self-Supervised Learning Environment) is a toy, goal-conditioned 
 
 
 <div align="center">
-  <iframe width="560" height="315" src="./Images/vid_train_at-790.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="Images/vid_train_at-790.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
