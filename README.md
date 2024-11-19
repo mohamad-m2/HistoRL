@@ -39,13 +39,13 @@ The `Observation` component provides two key functionalities:
 ### **Reward**
 The `Reward` class serves as a flexible base for reward computation. It can be extended to include custom reward calculation methods. Currently, it supports reward mechanisms for the **self-supervised task** described in:
 
-[![Reward Mechanism Image](./Images/goal_conditioned_navigation.png)](./Images/goal_conditioned_navigation.png)
+<img src="./Images/goal_conditioned_navigation.png" alt="Reward Mechanism" width="400" />
 
 ---
 
 ### **SSL_Env**
-The `SSL_Env` (Self-Supervised Learning Environment) is a toy, goal-conditioned environment built on top of `Base_Env`. It facilitates a localization task, as described in:
-*[Renal Cell Carcinoma subtyping: learning from multi-resolution localization (Mohamad Mohamad,Francesco Ponzio, Santa Di Cataldo, Damien Ambrosetti, Xavier Descombes, 2024)]*
+The `SSL_Env` (Self-Supervised Learning Environment) is a toy, goal-conditioned environment built on top of `Base_Env`. It facilitates a localization task, as described in [Renal Cell Carcinoma subtyping: learning from multi-resolution localization]([https://example.com/your-paper-url](https://arxiv.org/abs/2411.09471)).
+
 
 
 ---
