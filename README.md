@@ -50,7 +50,7 @@ The `SSL_Env` (Self-Supervised Learning Environment) is a toy, goal-conditioned 
 
 [Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471).
 
-
+![Demo](./Images/vid_train_at-790.mp4) 
 
 ---
 
