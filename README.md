@@ -41,7 +41,6 @@ The `Reward` class serves as a flexible base for reward computation. It can be e
 <div align="center">
 <img src="./Images/goal_conditioned_navigation.png" alt="Reward Mechanism" width="400" />
 </div>
----
 
 ### **SSL_Env**
 The `SSL_Env` (Self-Supervised Learning Environment) is a toy, goal-conditioned environment built on top of `Base_Env`. It facilitates a localization task, as described in [Renal Cell Carcinoma subtyping: learning from multi-resolution localization]([https://example.com/your-paper-url](https://arxiv.org/abs/2411.09471)).
