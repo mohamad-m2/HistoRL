@@ -38,9 +38,9 @@ The `Observation` component provides two key functionalities:
 
 ### **Reward**
 The `Reward` class serves as a flexible base for reward computation. It can be extended to include custom reward calculation methods. Currently, it supports reward mechanisms for the **self-supervised task** described in:
-
+<div align="center">
 <img src="./Images/goal_conditioned_navigation.png" alt="Reward Mechanism" width="400" />
-
+</div>
 ---
 
 ### **SSL_Env**
