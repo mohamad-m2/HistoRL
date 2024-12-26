@@ -59,8 +59,5 @@ The `utils` file contains common and general functionalities to support the envi
 
 ---
 
-This structure ensures flexibility for various applications in histopathology research while maintaining computational efficiency.
-
----
 
 Let us know if you encounter issues or have feature suggestions! 😊
